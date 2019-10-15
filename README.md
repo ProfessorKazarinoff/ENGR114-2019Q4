@@ -2,6 +2,10 @@
 
 Repo for ENGR114 Fall 2019. Class notes and any lab notes are saved in this repo.
 
+Jupyter notebooks can be viewed on nbviewer at the link below:
+
+[https://nbviewer.jupyter.org/github/professorkazarinoff/ENGR114-2019Q4/tree/master/](https://nbviewer.jupyter.org/github/professorkazarinoff/ENGR114-2019Q4/tree/master/)
+
 ## Class Schedule
 
 | Week | Topics |
@@ -11,7 +15,7 @@ Repo for ENGR114 Fall 2019. Class notes and any lab notes are saved in this repo
 | Week 3 | NumPy and arrays. Array creation and slicing |
 | Week 4 | Plotting with Matplotlib |
 | Week 5 | Functions |
-| Week 6 |  Review and Exam 1 |
+| Week 6 | Review and Exam 1 |
 | Week 7 | If else |
 | Week 8 | For loops, while loops |
 | Week 9 | Hardware |
