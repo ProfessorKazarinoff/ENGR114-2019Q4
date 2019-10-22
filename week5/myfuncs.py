@@ -1,5 +1,5 @@
 # myfuncs.py
 
-def plus_3(n):
-    out = n + 3
+def plus2(n):
+    out = n+2
     return out
