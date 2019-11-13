@@ -1,0 +1,9 @@
+conda create -n pyserial python=3.7
+
+conda activate pyserial
+
+conda install jupyter pyserial
+
+cd Desktop
+
+jupyter notebook
