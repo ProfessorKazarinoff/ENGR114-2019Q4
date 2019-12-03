@@ -17,8 +17,8 @@ Jupyter notebooks can be viewed on nbviewer at the link below:
 | Week 5 | Functions |
 | Week 6 | Review and Exam 1 |
 | Week 7 | If else |
-| Week 8 | For loops, while loops |
-| Week 9 | Hardware |
-| Week 10 | Projects |
+| Week 8 | Hardware and intro to loops |
+| Week 9 | For loops and while loops |
+| Week 10 | Projects and Loops Review |
 | Week 11 | Review and Exam 2 |
 | Finals Week | Project Delivery |
